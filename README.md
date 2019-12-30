@@ -14,3 +14,9 @@ run application:
 ```
 ./gradlew bootRun
 ```
+
+taste it
+
+```bash
+curl http://localhost:8080/greeting
+```
